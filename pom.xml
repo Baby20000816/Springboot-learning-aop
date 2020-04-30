@@ -11,5 +11,7 @@
 
     <modules>
         <module>spring-boots-aop</module>
+        <module>springboot-jwt</module>
+        <module>spring-boot-mybatis-plus</module>
     </modules>
 </project>
